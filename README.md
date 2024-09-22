@@ -1,4 +1,4 @@
 # hemang-demo
 This is my first  Git Repository.
 <br>
-Author- Hemang panchal
+Author- Hemang panchal( from apna collage)
